@@ -29,7 +29,7 @@
     "webrtc-adapter": "github:webrtc/adapter#1eec19782b4058d186341263e7d049cea3e3290a"
   },
   "devDependencies": {
-    "@babel/core": "7.1.2",
+    "@babel/core": "7.20.12",
     "@babel/plugin-proposal-class-properties": "7.1.0",
     "@babel/plugin-proposal-export-namespace-from": "7.0.0",
     "@babel/plugin-transform-flow-strip-types": "7.0.0",
